@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olaa, sou a Vanessa 👋
+
+Curso Ciência da Computação na Universidade Federal da Paraíba
+Atualmente trabalho como Engineer Software, utilizando bastante *Python* e *Spark*
+Mas também flerto com o Front fazendo alguns projetos pessoais utilizando *React*
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
