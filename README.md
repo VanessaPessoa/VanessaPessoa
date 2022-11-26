@@ -2,8 +2,7 @@
 
 
   <p>  Curso Ciência da Computação na Universidade Federal da Paraíba  </p> 
-  <p>  Atualmente trabalho como Engineer Software utilizando bastante Python </p> 
-  <p>  Mas também flerto com o Front fazendo alguns projetos pessoais utilizando ReactJs </p> 
+  <p>  Atualmente trabalho como desenvolvedora fullstack, atuando com as liguagens javascript e python </p> 
  
   
   <hr/>
